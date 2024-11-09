@@ -7,7 +7,7 @@ This project simulates a ransomware scenario for educational purposes. It includ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CyberSecurityUP/RansomwareSimulator.git
+   git clone https://github.com/CyberSecurityUP/RanSimulation.git
    cd RansomwareSimulator
    ```
 
