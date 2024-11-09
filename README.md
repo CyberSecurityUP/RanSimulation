@@ -1,0 +1,2 @@
+# RanSimulation
+Simple Ransomware Simulator
